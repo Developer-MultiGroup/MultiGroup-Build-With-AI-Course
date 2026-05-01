@@ -7,6 +7,7 @@
 
 Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community](https://github.com/Developer-MultiGroup) desteğiyle Türkçeleştirilip online video eğitim serisi haline getirilmiş versiyonudur. Eğitimlerde yer alan içerikler ve uygulamalar, Google’ın uzman Googler ekipleri tarafından hazırlanmış olup; MultiGroup Community’nin alanında deneyimli konuşmacıları tarafından sizlere daha anlaşılır ve uygulanabilir şekilde aktarılması amaçlanmıştır. 🚀
 
+
 ## 💖 Sponsors
 
 <p align="center">
@@ -29,6 +30,7 @@ Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community]
   <a href=""><strong>Become a Sponsor →</strong></a>
 </p>
 
+##
 
 
 
