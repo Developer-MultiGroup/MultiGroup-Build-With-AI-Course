@@ -13,44 +13,84 @@ Build With AI (bundan sonra kısaca BwAI), Google uzmanları tarafından hazırl
 
 Amacımız yalnızca bir şeyler öğretip teoride kalmak değil; birlikte kod yazmak, ilk uygulamalarımızı geliştirmek ve “Ben bu işi gerçekten seviyor muyum?” sorusuna üretirken cevap aramak. Eğer sen de yapay zekaya nereden başlayacağını bilmiyorsan, burada senin için de bir koltuk var 🧩
 
-## Aşama 1 : Intermediate Certificate 
+### Aşama 1 : Intermediate Certificate 
 
 <p>
-<!-- Oturum 1 -->
- <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+<!-- ORta Seviye --><!-- Oturum 1 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=zpVxGPpjkAg" style="text-decoration:none;">Getting Started with Google Antigravity</a>&nbsp;&nbsp
      -Gizem Arpay
     </span>
 </p>
 <!-- Oturum 2 -->
- <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+ <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=tzAvPtk5dfU" style="text-decoration:none;">Evaluating Agents with ADK</a>&nbsp;&nbsp
      -Nusret Özateş
     </span>
 </p>
 <!-- Oturum 3 -->
- <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+ <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=WgC5gXdbI-A&t=1s" style="text-decoration:none;">Building Personalized Agents with ADK, MCP, and Memory Bank</a>&nbsp;&nbsp
      -Nusret Özateş
     </span>
 </p>
 <!-- Oturum 4 -->
- <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+ <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=JV9T9BAKKyM" style="text-decoration:none;">Build a Location Intelligence ADK Agent with MCP servers for BigQuery and Google Maps</a>&nbsp;&nbsp
      -Göker GÜner
     </span>
 </p>
 <!-- Oturum 5 -->
- <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+ <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=My7DiZy0OSQ" style="text-decoration:none;">Building with Google Antigravity</a>&nbsp;&nbsp
      -Selin Çıldam
     </span>
 </p>
+<!-- İleri seviye --><!-- Oturum 1 -->
+<p>
+ <!-- Oturum 1 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Agentverse - The Scholar's Grimoire - Building Knowledge Engines with RAG</a>&nbsp;&nbsp
+     -Onur Özkan
+    </span>
+</p>
+<!-- Oturum 2 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Google's Agent Stack in Action:ADK, A2A, MCP on Google Cloud</a>&nbsp;&nbsp
+     -Hayati Enes Basat
+    </span>
+</p>
+<!-- Oturum 3 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Get started with Agent Development Kit (ADK)</a>&nbsp;&nbsp
+     -Nusret Özateş
+    </span>
+</p>
+<!-- Oturum 4 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Build multi-agent systems with ADK</a>&nbsp;&nbsp
+     -Nusret Özateş
+    </span>
+</p>
+<!-- Oturum 5 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Deploy ADK agents to Agent Engine</a>&nbsp;&nbsp
+    </span>
+</p>
+
+
+<img width="1080" height="1080" alt="Başlık (17)" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0" />
+
 
 
 ## 💖 Sponsors
