@@ -13,14 +13,14 @@ Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community]
 <p align="center">
  <!-- Google -->
   <a href="https://developers.google.com/?hl=tr">
-    <img height="30" alt="google" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg">
+    <img height="40" alt="google" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg">
   </a>&nbsp;&nbsp;
  <!-- Lodos.io -->
   <a href="https://lodos.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/lodos.png">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/dark_lodos.svg">
-      <img height="30" alt="lodos" src="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/lodos.png">
+      <img height="40" alt="lodos" src="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/lodos.png">
     </picture>
   </a>&nbsp;&nbsp;
 </p>
