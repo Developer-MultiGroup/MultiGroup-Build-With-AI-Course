@@ -1,4 +1,4 @@
-# MultiGroup-Build-With-AI-Course
+# MultiGroup Build With AI Course w/Google
 
 <img width="1920" height="1080" alt="Haziran 1 (20)" src="https://github.com/user-attachments/assets/33759270-e6bb-4716-bedb-5abb3d1bbd20" />
 
