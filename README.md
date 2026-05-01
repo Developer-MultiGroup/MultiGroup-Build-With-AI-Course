@@ -131,6 +131,14 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
       <img height="40" alt="lodos" src="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/lodos.png">
     </picture>
   </a>&nbsp;&nbsp;
+  <!-- Correlate -->
+  <a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/correlate.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/dark_correlete.svg">
+      <img height="40" width="118" alt="correlate" src="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/correlate.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/Developer-MultiGroup/sponsorships?sponsor=serkanalc&tier_id=612840&preview=false"><strong>Become a Sponsor →</strong></a>
