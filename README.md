@@ -7,6 +7,51 @@
 
 Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community](https://github.com/Developer-MultiGroup) desteğiyle Türkçeleştirilip online video eğitim serisi haline getirilmiş versiyonudur. Eğitimlerde yer alan içerikler ve uygulamalar, Google’ın uzman Googler ekipleri tarafından hazırlanmış olup; MultiGroup Community’nin alanında deneyimli konuşmacıları tarafından sizlere daha anlaşılır ve uygulanabilir şekilde aktarılması amaçlanmıştır. 🚀
 
+## 🧩 Build With AI Certifikasyon Serisi nedir?
+
+Build With AI (bundan sonra kısaca BwAI), Google uzmanları tarafından hazırlanan 10 farklı yapay zeka projesinin uygulamalı olarak işlendiği bir eğitim serisidir. Özellikle uygulamalı eğitimin eksikliğini sıkça hissettiğimiz bu dönemde, farklı seviyelere uygun 10 gerçek proje ile katılımcılarımızın yapay zeka teknolojileriyle üretmeye başlamasını hedefliyoruz.📌
+
+Amacımız yalnızca bir şeyler öğretip teoride kalmak değil; birlikte kod yazmak, ilk uygulamalarımızı geliştirmek ve “Ben bu işi gerçekten seviyor muyum?” sorusuna üretirken cevap aramak. Eğer sen de yapay zekaya nereden başlayacağını bilmiyorsan, burada senin için de bir koltuk var 🧩
+
+## Aşama 1 : Intermediate Certificate 
+
+<p>
+<!-- Oturum 1 -->
+ <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a href="https://www.youtube.com/watch?v=zpVxGPpjkAg" style="text-decoration:none;">Getting Started with Google Antigravity</a>&nbsp;&nbsp
+     -Gizem Arpay
+    </span>
+</p>
+<!-- Oturum 2 -->
+ <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a href="https://www.youtube.com/watch?v=tzAvPtk5dfU" style="text-decoration:none;">Evaluating Agents with ADK</a>&nbsp;&nbsp
+     -Nusret Özateş
+    </span>
+</p>
+<!-- Oturum 3 -->
+ <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a href="https://www.youtube.com/watch?v=WgC5gXdbI-A&t=1s" style="text-decoration:none;">Building Personalized Agents with ADK, MCP, and Memory Bank</a>&nbsp;&nbsp
+     -Nusret Özateş
+    </span>
+</p>
+<!-- Oturum 4 -->
+ <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a href="https://www.youtube.com/watch?v=JV9T9BAKKyM" style="text-decoration:none;">Build a Location Intelligence ADK Agent with MCP servers for BigQuery and Google Maps</a>&nbsp;&nbsp
+     -Göker GÜner
+    </span>
+</p>
+<!-- Oturum 5 -->
+ <a><img height="30" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a href="https://www.youtube.com/watch?v=My7DiZy0OSQ" style="text-decoration:none;">Building with Google Antigravity</a>&nbsp;&nbsp
+     -Selin Çıldam
+    </span>
+</p>
+
 
 ## 💖 Sponsors
 
@@ -30,24 +75,6 @@ Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community]
 
 ##
 
-
-
-
-
-
-
-
-  
-
-  
-
-|#  |          Konu Başlığı          | İlgili Kişi   | Başarım Rozeti |
-|:-----:|------------------------------|:-------------:|:--------------:|
-|01     | [Getting Started with Google Antigravity ](https://www.youtube.com/watch?v=zpVxGPpjkAg)           | [Gizem Arpay](https://www.linkedin.com/in/gizem-arpay/)    |<img src="https://github.com/user-attachments/assets/08a2a97b-0bbd-4b59-bb71-cec6ea151f50" width="135em"/>
-|02     | [Evaluating Agents with ADK ](https://www.youtube.com/watch?v=tzAvPtk5dfU)           | [Nusret Özateş](https://www.linkedin.com/in/nusret-ozates/)    |<img src="https://github.com/user-attachments/assets/69fb3890-6865-49a2-a428-41e74a402d15" width="135em"/>
-|03     | [Building Personalized Agents with ADK, MCP, and Memory Bank ](https://www.youtube.com/watch?v=WgC5gXdbI-A&t=1s)           | [Nusret Özateş](https://www.linkedin.com/in/nusret-ozates/)    |<img src="https://github.com/user-attachments/assets/fdf8e7ed-aa05-4136-ab70-14074bc64d81" width="135em"/>
-|04     | [Build a Location Intelligence ADK Agent with MCP servers for BigQuery and Google Maps ](https://www.youtube.com/watch?v=JV9T9BAKKyM)           | [Göker Güner](https://www.linkedin.com/in/gokerguner/)    |<img src="https://github.com/user-attachments/assets/e97fe7fd-4d14-4554-9ff0-13c485ac99f9" width="135em"/>
-|05     | [Building with Google Antigravity ](https://www.youtube.com/watch?v=My7DiZy0OSQ)           | [Selin Çıldam](https://www.linkedin.com/in/selincildam/)    |<img src="https://github.com/user-attachments/assets/01e47fd4-1188-4b19-85c6-74335fa16dba" width="135em"/>
 
 ## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
 
