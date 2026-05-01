@@ -7,6 +7,35 @@
 
 Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community](https://github.com/Developer-MultiGroup) desteğiyle Türkçeleştirilip online video eğitim serisi haline getirilmiş versiyonudur. Eğitimlerde yer alan içerikler ve uygulamalar, Google’ın uzman Googler ekipleri tarafından hazırlanmış olup; MultiGroup Community’nin alanında deneyimli konuşmacıları tarafından sizlere daha anlaşılır ve uygulanabilir şekilde aktarılması amaçlanmıştır. 🚀
 
+## 💖 Sponsors
+
+<p align="center">
+  <a href="https://google.com">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+      alt="Google"
+      height="40">
+  </a>&nbsp;&nbsp;
+  <a href="https://clemta.com/?utm_source=prompts.chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" src="./assets/lodos-dark.svg">
+      <source media="(prefers-color-scheme: light)" src="./assets/lodos-light.svg">
+      <img height="35" alt="Clemta" src="./assets/lodos-dark.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
+</p>
+
+
+
+
+
+
+
+
+
+  
+
+  
 
 |#  |          Konu Başlığı          | İlgili Kişi   | Başarım Rozeti |
 |:-----:|------------------------------|:-------------:|:--------------:|
@@ -24,25 +53,28 @@ Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak s
 ## 🧾 Lisans
 
 ```
-Copyright © 2021 Serkan Alc
+MIT License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software
-and associated documentation files (the “Software”),to deal in the Software without restriction,
-including without limitation the rights to use, copy, modify, merge, publish, distribute,
-sublicense,and/or sell copies of the Software, and to permit persons to whom the Software
-is furnished to do so, subject to the following conditions:
+Copyright (c) 2026 MultiGroup
 
-The above copyright notice and this permission notice shall be included in all copies or 
-substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
-BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-© 2022 GitHub, Inc. Terms, Privacy, Security, Status, Docs, Contact, GitHub Pricing, 
-API Training, Blog About,
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ```
 
