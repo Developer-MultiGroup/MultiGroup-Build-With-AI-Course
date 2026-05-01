@@ -13,7 +13,33 @@ Build With AI (bundan sonra kısaca BwAI), Google uzmanları tarafından hazırl
 
 Amacımız yalnızca bir şeyler öğretip teoride kalmak değil; birlikte kod yazmak, ilk uygulamalarımızı geliştirmek ve “Ben bu işi gerçekten seviyor muyum?” sorusuna üretirken cevap aramak. Eğer sen de yapay zekaya nereden başlayacağını bilmiyorsan, burada senin için de bir koltuk var 🧩
 
-### Aşama 1 : Intermediate Certificate 
+## 🏅 Oturumlar ve Sertifika İçerikleri
+Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşabiliyor. Böyle anlarda ilerlediğini görmek ve somut bir başarı hissi kazanmak, devam edebilmenin en güçlü motivasyonlarından biri oluyor. Bu nedenle, **Sektörde rastgele dağıtılan sertifikaların aksine; burada tamamladığın her oturum için bir başarım rozeti, tamamladığın her bölüm için ise emeğini gerçekten yansıtan bir sertifika seni bekliyor.**
+
+
+### 📌 Aşama 0: Giriş Seviye Eğitimler & Projeler
+
+<p>
+<!-- Giriş Seviye --><!-- Oturum 1 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/d5de955c-eed8-4c67-b123-873a3fce5c4b"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Build a Gemini-Powered YouTube Summarizer</a>&nbsp;&nbsp
+    </span>
+</p>
+<!-- Oturum 2 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/d5de955c-eed8-4c67-b123-873a3fce5c4b"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Develop an app with Gemini (Code Assist)</a>&nbsp;&nbsp
+    </span>
+</p>
+<!-- Oturum 3 -->
+ <a><img height="20" src="https://github.com/user-attachments/assets/d5de955c-eed8-4c67-b123-873a3fce5c4b"align="center"/></a>&nbsp;
+    <span style="vertical-align: middle;">
+     <a style="text-decoration:none;">Agentverse-The Shadowblade's Codex-Vibecoding with Gemini CLI</a>&nbsp;&nbsp
+    </span>
+</p>
+
+### 📌 Aşama 1: Orta Sevite Eğitimler & Projeler
 
 <p>
 <!-- ORta Seviye --><!-- Oturum 1 -->
@@ -51,7 +77,9 @@ Amacımız yalnızca bir şeyler öğretip teoride kalmak değil; birlikte kod y
      -Selin Çıldam
     </span>
 </p>
-<!-- İleri seviye --><!-- Oturum 1 -->
+
+### 📌 Aşama 2: İleri Seviye Eğitimler & Projeler
+
 <p>
  <!-- Oturum 1 -->
  <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
