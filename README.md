@@ -88,11 +88,6 @@ Amacımız yalnızca bir şeyler öğretip teoride kalmak değil; birlikte kod y
     </span>
 </p>
 
-
-<img width="1080" height="1080" alt="Başlık (17)" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0" />
-
-
-
 ## 💖 Sponsors
 
 <p align="center">
