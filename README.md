@@ -8,7 +8,8 @@
 Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community](https://github.com/Developer-MultiGroup) desteğiyle Türkçeleştirilip online video eğitim serisi haline getirilmiş versiyonudur. Eğitimlerde yer alan içerikler ve uygulamalar, Google’ın uzman Googler ekipleri tarafından hazırlanmış olup; MultiGroup Community’nin alanında deneyimli konuşmacıları tarafından sizlere daha anlaşılır ve uygulanabilir şekilde aktarılması amaçlanmıştır. 🚀
 
 ## 💖 Sponsors
-<p align="center>
+
+<p align="center">
   <a href="https://google.com">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
@@ -22,13 +23,8 @@ Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community]
       <img height="35" alt="Lodos" src="./assets/lodos-dark.svg">
     </picture>
   </a>&nbsp;&nbsp;
-   <a href="https://google.com">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
-      alt="Google"
-      height="40">
-  </a>&nbsp;&nbsp;
 </p>
+
 <p align="center">
   <a href=""><strong>Become a Sponsor →</strong></a>
 </p>
