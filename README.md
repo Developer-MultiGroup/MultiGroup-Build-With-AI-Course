@@ -8,21 +8,29 @@
 Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community](https://github.com/Developer-MultiGroup) desteğiyle Türkçeleştirilip online video eğitim serisi haline getirilmiş versiyonudur. Eğitimlerde yer alan içerikler ve uygulamalar, Google’ın uzman Googler ekipleri tarafından hazırlanmış olup; MultiGroup Community’nin alanında deneyimli konuşmacıları tarafından sizlere daha anlaşılır ve uygulanabilir şekilde aktarılması amaçlanmıştır. 🚀
 
 ## 💖 Sponsors
-
-<p align="center">
+<p align="center>
   <a href="https://google.com">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
       alt="Google"
       height="40">
   </a>&nbsp;&nbsp;
-  <a href="https://clemta.com/?utm_source=prompts.chat">
+  <a href="https://lodos.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" src="./assets/lodos-dark.svg">
-      <source media="(prefers-color-scheme: light)" src="./assets/lodos-light.svg">
-      <img height="35" alt="Clemta" src="./assets/lodos-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/lodos-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/lodos-light.svg">
+      <img height="35" alt="Lodos" src="./assets/lodos-dark.svg">
     </picture>
   </a>&nbsp;&nbsp;
+   <a href="https://google.com">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+      alt="Google"
+      height="40">
+  </a>&nbsp;&nbsp;
+</p>
+<p align="center">
+  <a href=""><strong>Become a Sponsor →</strong></a>
 </p>
 
 
