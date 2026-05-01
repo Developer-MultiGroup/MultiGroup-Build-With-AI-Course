@@ -1,5 +1,8 @@
 # MultiGroup-Build-With-AI-Course
 
+<img width="1920" height="1080" alt="Haziran 1 (20)" src="https://github.com/user-attachments/assets/33759270-e6bb-4716-bedb-5abb3d1bbd20" />
+
+
 ## 📝 İçerik:
 
 Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community](https://github.com/Developer-MultiGroup) desteğiyle Türkçeleştirilip online video eğitim serisi haline getirilmiş versiyonudur. Eğitimlerde yer alan içerikler ve uygulamalar, Google’ın uzman Googler ekipleri tarafından hazırlanmış olup; MultiGroup Community’nin alanında deneyimli konuşmacıları tarafından sizlere daha anlaşılır ve uygulanabilir şekilde aktarılması amaçlanmıştır. 🚀
