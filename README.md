@@ -11,18 +11,18 @@ Bu içerik, Google’ın Build With AI Workshop serisinin [MultiGroup Community]
 ## 💖 Sponsors
 
 <p align="center">
-  <a href="https://google.com">
-    <img
-      src="./assets/sbg-google.svg"
-      alt="Google"
-      height="96">
-  </a>
-   <a href="https://google.com">
-    <img
-      src="./assets/sbg-logo.svg"
-      alt="Google"
-      height="96">
-  </a>
+ <!-- Clemta -->
+  <!-- Wiro (py-1) -->
+  <a href="https://wiro.ai/?utm_source=prompts.chat">
+    <img height="30" alt="Wiro" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg">
+  </a>&nbsp;&nbsp;
+  <a href="https://clemta.com/?utm_source=prompts.chat">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/lodos.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/dark_lodos.svg">
+      <img height="35" alt="Clemta" src="https://github.com/Developer-MultiGroup/MultiGroup-Build-With-AI-Course/blob/main/assets/lodos.svg">
+    </picture>
+  </a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <a href="https://github.com/sponsors/Developer-MultiGroup/sponsorships?sponsor=serkanalc&tier_id=612840&preview=false"><strong>Become a Sponsor →</strong></a>
