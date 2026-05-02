@@ -9,4 +9,17 @@ MultiGroup olarak tüm içeriklerimizi ve projelerimizi mümkün olduğunca aç�
 Çünkü community olmak, bilgiyi birlikte üretmek ve paylaşmak demek. 🚀
 
 
+## 🔗 Community Contributions
+
+### 📌 Süreç Boyunca İhtiyacınız Olacak Linkler:
+
+- [Müfredat ve dökümanlar](https://docs.google.com/spreadsheets/d/1OS5TIKEttqFrA4xrgZOTXwbiswqeEVTCO3xWJbGri-A/edit?usp=sharing) -Serkan Alc
+- [Social hive iletişim Sunucusu](https://socialhive.lodos.io/channel/34813861558366504236) - Serkan Alc
+- [Sertifika programı için başvuru sayfası](https://togather.lodos.io/events/build-with-ai-certification-program-2026-64977629554876323476) - Serkan Alc
+- [Eğitim serisi video oynatma listesi](https://www.youtube.com/playlist?list=PLQvJkakaBRKdFM5xratmxXh65IKc66d1E) - Serkan Alc
+
+### 📌 İşinize Yarayabilecek Kaynaklar
+
+
+
 
