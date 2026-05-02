@@ -1,4 +1,4 @@
-# MultiGroup Build With AI Course w/Google
+# [MultiGroup Build With AI Course w/Google](https://www.youtube.com/playlist?list=PLQvJkakaBRKdFM5xratmxXh65IKc66d1E)
 
 <img width="1920" height="1080" alt="Haziran 1 (20)" src="https://github.com/user-attachments/assets/33759270-e6bb-4716-bedb-5abb3d1bbd20" />
 
@@ -67,7 +67,7 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
  <a><img height="20" src="https://github.com/user-attachments/assets/5784007c-12f4-4223-ae84-abc9f938fc21"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
      <a href="https://www.youtube.com/watch?v=JV9T9BAKKyM" style="text-decoration:none;">Build a Location Intelligence ADK Agent with MCP servers for BigQuery and Google Maps</a>&nbsp;&nbsp
-     -Göker GÜner
+     -Göker Güner
     </span>
 </p>
 <!-- Oturum 5 -->
@@ -84,7 +84,7 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
  <!-- Oturum 1 -->
  <a><img height="20" src="https://github.com/user-attachments/assets/3d058656-3a7c-4053-b280-790882f4e3f0"align="center"/></a>&nbsp;
     <span style="vertical-align: middle;">
-     <a style="text-decoration:none;">Agentverse - The Scholar's Grimoire - Building Knowledge Engines with RAG</a>&nbsp;&nbsp
+     <a href="https://www.youtube.com/watch?v=xyv5WD8J5dg" style="text-decoration:none;">Agentverse - The Scholar's Grimoire - Building Knowledge Engines with RAG</a>&nbsp;&nbsp
      -Onur Özkan
     </span>
 </p>
