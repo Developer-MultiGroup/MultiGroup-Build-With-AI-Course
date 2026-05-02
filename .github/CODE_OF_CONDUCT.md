@@ -20,11 +20,18 @@ Eğitim sürecinde faydalı olduğunu düşündüğün kaynakları Community Con
 - Her kaynağa kısa bir açıklama eklenmelidir.
 - Mevcut markdown düzeni korunmalıdır.
 
-## Örnek
+Eklerken repodaki düzeni korumak adına birkaç basit kuralın hem bizlere hem de sonradan katkı sağlayacak arkadaşlara yardımcı olacağını düşünüyoruz. Katkı sağlamak istiyorsanız lütfen:
+
+- Repository’i kendi hesabınıza forklayın.
+- Eklemek istediğiniz kaynağı ilgili kategorinin en altına ekleyin.
+- Eğer uygun bir kategori olmadığını düşünüyorsanız, pull request açıklamasında belirtin.
+- Commit mesajlarınızı mümkün olduğunca açıklayıcı ve tercihen İngilizce yazın.
+- Eklediğiniz kaynaklarda mevcut formatı korumaya özen gösterin.
+
+Bir makale, video veya kaynak eklerken aşağıdaki yapıyı kullanabilirsiniz:
 
 ```md
-- [Gemini Documentation](https://ai.google.dev/)
-  - Gemini modelleri ve API kullanımı hakkında resmi dökümantasyon.
+- [Kaynak Başlığı](link) - Serkan Alc
 ```
 
 Katkı sağlamak için fork oluşturabilir ve pull request gönderebilirsin 🙌
