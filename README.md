@@ -141,7 +141,7 @@ Bir şeyler öğrenirken motivasyonu korumak ve yola devam etmek bazen zorlaşab
   </a>&nbsp;&nbsp;
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/Developer-MultiGroup/sponsorships?sponsor=serkanalc&tier_id=612840&preview=false"><strong>Become a Sponsor →</strong></a>
+  <a href="https://github.com/sponsors/multigroupco/sponsorships?sponsor=serkanalc&tier_id=612840&preview=false"><strong>Become a Sponsor →</strong></a>
 </p>
 
 ##
