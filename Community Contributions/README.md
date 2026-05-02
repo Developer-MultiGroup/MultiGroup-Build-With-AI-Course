@@ -21,5 +21,9 @@ MultiGroup olarak tüm içeriklerimizi ve projelerimizi mümkün olduğunca aç�
 ### 📌 İşinize Yarayabilecek Kaynaklar
 
 
+### 📌 Getting Started with Google Antigravity
+
+- ["Getting Started with Google Antigravity" oturum dökümanı](https://codelabs.developers.google.com/getting-started-google-antigravity?hl=tr#0) - Serkan Alc
+
 
 
